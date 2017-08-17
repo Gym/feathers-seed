@@ -1,0 +1,11 @@
+{
+  "exec": "npm run build && ts-node src/",
+  "ext": "ts json",
+  "ignore": [
+    "package.json"
+  ],
+  "watch": [
+    "src"
+  ],
+  "verbose": false
+}
