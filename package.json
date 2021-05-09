@@ -72,7 +72,7 @@
     "eslint": "^4.4.1",
     "glob": "^7.1.2",
     "gulp-util": "^3.0.8",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "method-override": "^2.3.9",
     "mocha": "^3.5.0",
     "morgan": "^1.8.2",
